@@ -26,5 +26,5 @@ I am Javascript adict and self learner
 - ⚡ [community Repos](http://github.com/devmnj)
 - 🚀 [Blog on Javascript](http://javascriptsu.wordpress.com)
 - 📸 [Unsplash - contributions](https://unsplash.com/@manojap)
-- 🍡 [Imgur](https://imgur.com/user/devmnj/posts) 
+- 🍡 [Imgur](https://imgur.com/user/devshots/posts) 
  
