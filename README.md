@@ -16,14 +16,15 @@ Here are some ideas to get you started:
  
 
 I am Javascript adict and self learner
-- [Unsplash - contributions](https://unsplash.com/@manojap)
-- [Imgur](https://imgur.com/user/devmnj/posts) 
+
 - 🔭 I’m currently working on SQL/.Net development
 - 🌱 I’m currently learning Solidjs
 - 👯 I’m looking to collaborate on UI development
 - 💬 Ask me about React/Vuejs/Angularjs/Next/Nuxt/Solidjs
 - 📫 How to reach me: manojap@outlook.com
 - 😄 Fun fact: love JS lot.
-- ⚡[community Repos](http://github.com/devmnj)
--  [Blog on Javascript](http://javascriptsu.wordpress.com)
+- ⚡ [community Repos](http://github.com/devmnj)
+- 🚀 [Blog on Javascript](http://javascriptsu.wordpress.com)
+- 📸 [Unsplash - contributions](https://unsplash.com/@manojap)
+- 🍡 [Imgur](https://imgur.com/user/devmnj/posts) 
  
