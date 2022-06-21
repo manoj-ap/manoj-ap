@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 I am Javascript adict and self learner
 
-- 🔭 I’m currently working on SQL/.Net development
-- 🌱 I’m currently learning Solidjs
+- 🔭 I’m currently working on `SQL/.Net` development
+- 🌱 I’m currently learning `Solidjs`
 - 👯 I’m looking to collaborate on UI development
-- 💬 Ask me about React/Vuejs/Angularjs/Next/Nuxt/Solidjs
+- 💬 Ask me about `React/Vuejs/Angularjs/Next/Nuxt/Solidjs/Graphql/Apollo Server/Strapi/Docker/Prisma and REST API`
 - 📫 How to reach me: manojap@outlook.com
 - 😄 Fun fact: love JS lot.
 - ⚡ [community Repos](http://github.com/devmnj)
