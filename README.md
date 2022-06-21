@@ -24,6 +24,6 @@ I am Javascript adict and self learner
 - 💬 Ask me about React/Vuejs/Angularjs/Next/Nuxt/Solidjs
 - 📫 How to reach me: manojap@outlook.com
 - 😄 Fun fact: love JS lot.
-- [community Repos] (http://github.com/devmnj)
+- [community Repos](http://github.com/devmnj)
 - [Blog on Javascript](http://javascriptsu.wordpress.com)
  
